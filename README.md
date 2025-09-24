@@ -21,6 +21,7 @@ Additional features include a floating contact button and responsive design.
 ## Setup Instructions
 
 1- Clone this repository.
+
 2- Open the website in the broswer by opening **index.html**.
 
 
@@ -34,4 +35,4 @@ I used ChatGPT to support this project in:
 - Generating sample HTML, CSS and JavaScript code.
 - Provide design suggestions.
 
-Details are included in docs/ai-usage-report.md
+Details are included in [ai-usage-report.md](docs/ai-usage-report.md).
